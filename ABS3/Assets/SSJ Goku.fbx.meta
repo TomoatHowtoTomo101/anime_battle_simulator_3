@@ -1,0 +1,774 @@
+fileFormatVersion: 2
+guid: f1429dfb8a9b6134693466523451c8e8
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 30_mesh11.005_0.1_16_16
+    100002: 40_mesh0.053_0.1_16_16
+    100004: 40_mesh1.006_0.1_16_16
+    100006: 40_mesh10.005_0.1_16_16
+    100008: 40_mesh12.005_0.1_16_16
+    100010: 40_mesh13.005_0.1_16_16
+    100012: 41_mesh7.005_0.1_16_16
+    100014: 41_mesh9.005_0.1_16_16
+    100016: arm left elbow
+    100018: arm left elbow adj 1
+    100020: arm left elbow adj 1_end
+    100022: arm left elbow adj 2
+    100024: arm left elbow adj 2_end
+    100026: arm left elbow adj 3
+    100028: arm left elbow adj 3_end
+    100030: arm left elbow adj 4
+    100032: arm left elbow adj 4_end
+    100034: arm left finger 1a
+    100036: arm left finger 1b
+    100038: arm left finger 1c
+    100040: arm left finger 1c_end
+    100042: arm left finger 2a
+    100044: arm left finger 2b
+    100046: arm left finger 2c
+    100048: arm left finger 2c_end
+    100050: arm left finger 3a
+    100052: arm left finger 3b
+    100054: arm left finger 3c
+    100056: arm left finger 3c_end
+    100058: arm left finger 4a
+    100060: arm left finger 4b
+    100062: arm left finger 4c
+    100064: arm left finger 4c_end
+    100066: arm left finger 5a
+    100068: arm left finger 5b
+    100070: arm left finger 5c
+    100072: arm left finger 5c_end
+    100074: arm left shoulder 1
+    100076: arm left shoulder 2
+    100078: arm left shoulder adj 1
+    100080: arm left shoulder adj 1_end
+    100082: arm left shoulder adj 2
+    100084: arm left shoulder adj 2_end
+    100086: arm left shoulder adj 3
+    100088: arm left shoulder adj 4
+    100090: arm left shoulder adj 4_end
+    100092: arm left shoulder adj 5
+    100094: arm left shoulder adj 5_end
+    100096: arm left wrist
+    100098: arm right elbow
+    100100: arm right elbow adj 1
+    100102: arm right elbow adj 1_end
+    100104: arm right elbow adj 2
+    100106: arm right elbow adj 2_end
+    100108: arm right elbow adj 3
+    100110: arm right elbow adj 3_end
+    100112: arm right elbow adj 4
+    100114: arm right elbow adj 4_end
+    100116: arm right finger 1a
+    100118: arm right finger 1b
+    100120: arm right finger 1c
+    100122: arm right finger 1c_end
+    100124: arm right finger 2a
+    100126: arm right finger 2b
+    100128: arm right finger 2c
+    100130: arm right finger 2c_end
+    100132: arm right finger 3a
+    100134: arm right finger 3b
+    100136: arm right finger 3c
+    100138: arm right finger 3c_end
+    100140: arm right finger 4a
+    100142: arm right finger 4b
+    100144: arm right finger 4c
+    100146: arm right finger 4c_end
+    100148: arm right finger 5a
+    100150: arm right finger 5b
+    100152: arm right finger 5c
+    100154: arm right finger 5c_end
+    100156: arm right shoulder 1
+    100158: arm right shoulder 2
+    100160: arm right shoulder adj 1
+    100162: arm right shoulder adj 1_end
+    100164: arm right shoulder adj 2
+    100166: arm right shoulder adj 2_end
+    100168: arm right shoulder adj 3
+    100170: arm right shoulder adj 4
+    100172: arm right shoulder adj 4_end
+    100174: arm right shoulder adj 5
+    100176: arm right shoulder adj 5_end
+    100178: arm right wrist
+    100180: Armature
+    100182: Camera
+    100184: hair back
+    100186: hair back_end
+    100188: hair base
+    100190: hair front left
+    100192: hair front left_end
+    100194: hair front middle
+    100196: hair front middle_end
+    100198: hair front right
+    100200: hair left 1
+    100202: hair left 2
+    100204: hair left 2_end
+    100206: hair left 3
+    100208: hair left 3_end
+    100210: hair left 4
+    100212: hair left 4_end
+    100214: hair right 1
+    100216: hair right 2
+    100218: hair right 2_end
+    100220: hair right 3
+    100222: hair right 3_end
+    100224: hair right 4
+    100226: hair right 4_end
+    100228: head cheek left 1
+    100230: head cheek left 1_end
+    100232: head cheek left 2
+    100234: head cheek left 2_end
+    100236: head cheek right 1
+    100238: head cheek right 1_end
+    100240: head cheek right 2
+    100242: head cheek right 2_end
+    100244: head cheek shadow left
+    100246: head cheek shadow left_end
+    100248: head cheek shadow right
+    100250: head cheek shadow right_end
+    100252: head chin center
+    100254: head chin left
+    100256: head chin left_end
+    100258: head chin right
+    100260: head chin right_end
+    100262: head eyeball left
+    100264: head eyeball right
+    100266: head eyebrow center
+    100268: head eyebrow left 1
+    100270: head eyebrow left 2
+    100272: head eyebrow left 3
+    100274: head eyebrow left 3_end
+    100276: head eyebrow left 4
+    100278: head eyebrow left 4_end
+    100280: head eyebrow left 5
+    100282: head eyebrow left 5_end
+    100284: head eyebrow right 1
+    100286: head eyebrow right 2
+    100288: head eyebrow right 3
+    100290: head eyebrow right 3_end
+    100292: head eyebrow right 4
+    100294: head eyebrow right 4_end
+    100296: head eyebrow right 5
+    100298: head eyebrow right 5_end
+    100300: head eyelid lower left 1
+    100302: head eyelid lower left 1_end
+    100304: head eyelid lower left 2
+    100306: head eyelid lower left 2_end
+    100308: head eyelid lower left 3
+    100310: head eyelid lower left 3_end
+    100312: head eyelid lower right 1
+    100314: head eyelid lower right 1_end
+    100316: head eyelid lower right 2
+    100318: head eyelid lower right 2_end
+    100320: head eyelid lower right 3
+    100322: head eyelid lower right 3_end
+    100324: head eyelid upper left 1
+    100326: head eyelid upper left 1_end
+    100328: head eyelid upper left 2
+    100330: head eyelid upper left 2_end
+    100332: head eyelid upper left 3
+    100334: head eyelid upper left 3_end
+    100336: head eyelid upper right 1
+    100338: head eyelid upper right 1_end
+    100340: head eyelid upper right 2
+    100342: head eyelid upper right 2_end
+    100344: head eyelid upper right 3
+    100346: head eyelid upper right 3_end
+    100348: head eyesocket left
+    100350: head eyesocket left_end
+    100352: head eyesocket right
+    100354: head eyesocket right_end
+    100356: head frown eyebrow center
+    100358: head frown eyebrow center_end
+    100360: head frown forehead left
+    100362: head frown forehead left_end
+    100364: head frown forehead middle
+    100366: head frown forehead middle_end
+    100368: head frown forehead right
+    100370: head frown forehead right_end
+    100372: head frown lower lip
+    100374: head frown lower lip_end
+    100376: head frown mayu left
+    100378: head frown mayu left_end
+    100380: head frown mayu right
+    100382: head frown mayu right_end
+    100384: head frown nose left
+    100386: head frown nose left_end
+    100388: head frown nose right
+    100390: head frown nose right_end
+    100392: head jaw
+    100394: head lip lower center
+    100396: head lip lower left 1
+    100398: head lip lower left 1_end
+    100400: head lip lower left 2
+    100402: head lip lower left 2_end
+    100404: head lip lower left 3
+    100406: head lip lower left 3_end
+    100408: head lip lower right 1
+    100410: head lip lower right 1_end
+    100412: head lip lower right 2
+    100414: head lip lower right 2_end
+    100416: head lip lower right 3
+    100418: head lip lower right 3_end
+    100420: head lip shadow
+    100422: head lip shadow_end
+    100424: head lip upper center
+    100426: head lip upper center_end
+    100428: head lip upper left 1
+    100430: head lip upper left 1_end
+    100432: head lip upper left 2
+    100434: head lip upper left 2_end
+    100436: head lip upper left 3
+    100438: head lip upper right 1
+    100440: head lip upper right 1_end
+    100442: head lip upper right 2
+    100444: head lip upper right 2_end
+    100446: head lip upper right 3
+    100448: head mouth siwa left
+    100450: head mouth siwa left_end
+    100452: head mouth siwa right
+    100454: head mouth siwa right_end
+    100456: head neck lower
+    100458: head neck upper
+    100460: head nose
+    100462: head nose_end
+    100464: head pupil left
+    100466: head pupil left_end
+    100468: head pupil right
+    100470: head pupil right_end
+    100472: head pupils root
+    100474: head teeth lower
+    100476: head teeth lower_end
+    100478: head teeth upper
+    100480: head teeth upper_end
+    100482: Lamp
+    100484: leg left ankle
+    100486: leg left groin
+    100488: leg left groin_end
+    100490: leg left knee
+    100492: leg left knee adj 1
+    100494: leg left knee adj 2
+    100496: leg left knee adj 3
+    100498: leg left knee adj 4
+    100500: leg left thigh
+    100502: leg left thigh adj 1
+    100504: leg left thigh adj 2
+    100506: leg left thigh adj 3
+    100508: leg left toe
+    100510: leg left toe_end
+    100512: leg right ankle
+    100514: leg right groin
+    100516: leg right groin_end
+    100518: leg right knee
+    100520: leg right knee adj 1
+    100522: leg right knee adj 2
+    100524: leg right knee adj 3
+    100526: leg right knee adj 4
+    100528: leg right thigh
+    100530: leg right thigh adj 1
+    100532: leg right thigh adj 2
+    100534: leg right thigh adj 3
+    100536: leg right toe
+    100538: leg right toe_end
+    100540: pelvis adj
+    100542: pelvis adj_end
+    100544: root ground
+    100546: root hips
+    100548: spine lower
+    100550: spine middle
+    100552: spine upper
+    100554: //RootNode
+    100556: stomach adj 1
+    100558: stomach adj 1_end
+    100560: stomach adj 2
+    100562: stomach adj 2_end
+    100564: unused gd chest scl
+    100566: unused gd chest scl_end
+    100568: unused gd head def
+    100570: unused gd head def_end
+    100572: unused gd hiphalf l
+    100574: unused gd hiphalf l_end
+    100576: unused gd hiphalf r
+    100578: unused gd hiphalf r_end
+    100580: unused gd neck scl
+    100582: unused gd neck scl_end
+    100584: unused gd shldrhalf l
+    100586: unused gd shldrhalf r
+    100588: unused gp calf low l
+    100590: unused gp calf low l_end
+    100592: unused gp calf low r
+    100594: unused gp calf low r_end
+    100596: unused gp calf mid l
+    100598: unused gp calf mid l_end
+    100600: unused gp calf mid r
+    100602: unused gp calf mid r_end
+    100604: unused gp calf up l
+    100606: unused gp calf up l_end
+    100608: unused gp calf up r
+    100610: unused gp calf up r_end
+    100612: unused gp knee l
+    100614: unused gp knee l_end
+    100616: unused gp knee r
+    100618: unused gp knee r_end
+    100620: unused gp thigh low l
+    100622: unused gp thigh low l_end
+    100624: unused gp thigh low r
+    100626: unused gp thigh low r_end
+    100628: unused gp thigh mid l
+    100630: unused gp thigh mid l_end
+    100632: unused gp thigh mid r
+    100634: unused gp thigh mid r_end
+    100636: unused gp thigh up l
+    100638: unused gp thigh up l_end
+    100640: unused gp thigh up r
+    100642: unused gp thigh up r_end
+    100644: unused gp uparm l
+    100646: unused gp uparm l_end
+    100648: unused gp uparm r
+    100650: unused gp uparm r_end
+    100652: waist adj
+    100654: waist adj_end
+    400000: 30_mesh11.005_0.1_16_16
+    400002: 40_mesh0.053_0.1_16_16
+    400004: 40_mesh1.006_0.1_16_16
+    400006: 40_mesh10.005_0.1_16_16
+    400008: 40_mesh12.005_0.1_16_16
+    400010: 40_mesh13.005_0.1_16_16
+    400012: 41_mesh7.005_0.1_16_16
+    400014: 41_mesh9.005_0.1_16_16
+    400016: arm left elbow
+    400018: arm left elbow adj 1
+    400020: arm left elbow adj 1_end
+    400022: arm left elbow adj 2
+    400024: arm left elbow adj 2_end
+    400026: arm left elbow adj 3
+    400028: arm left elbow adj 3_end
+    400030: arm left elbow adj 4
+    400032: arm left elbow adj 4_end
+    400034: arm left finger 1a
+    400036: arm left finger 1b
+    400038: arm left finger 1c
+    400040: arm left finger 1c_end
+    400042: arm left finger 2a
+    400044: arm left finger 2b
+    400046: arm left finger 2c
+    400048: arm left finger 2c_end
+    400050: arm left finger 3a
+    400052: arm left finger 3b
+    400054: arm left finger 3c
+    400056: arm left finger 3c_end
+    400058: arm left finger 4a
+    400060: arm left finger 4b
+    400062: arm left finger 4c
+    400064: arm left finger 4c_end
+    400066: arm left finger 5a
+    400068: arm left finger 5b
+    400070: arm left finger 5c
+    400072: arm left finger 5c_end
+    400074: arm left shoulder 1
+    400076: arm left shoulder 2
+    400078: arm left shoulder adj 1
+    400080: arm left shoulder adj 1_end
+    400082: arm left shoulder adj 2
+    400084: arm left shoulder adj 2_end
+    400086: arm left shoulder adj 3
+    400088: arm left shoulder adj 4
+    400090: arm left shoulder adj 4_end
+    400092: arm left shoulder adj 5
+    400094: arm left shoulder adj 5_end
+    400096: arm left wrist
+    400098: arm right elbow
+    400100: arm right elbow adj 1
+    400102: arm right elbow adj 1_end
+    400104: arm right elbow adj 2
+    400106: arm right elbow adj 2_end
+    400108: arm right elbow adj 3
+    400110: arm right elbow adj 3_end
+    400112: arm right elbow adj 4
+    400114: arm right elbow adj 4_end
+    400116: arm right finger 1a
+    400118: arm right finger 1b
+    400120: arm right finger 1c
+    400122: arm right finger 1c_end
+    400124: arm right finger 2a
+    400126: arm right finger 2b
+    400128: arm right finger 2c
+    400130: arm right finger 2c_end
+    400132: arm right finger 3a
+    400134: arm right finger 3b
+    400136: arm right finger 3c
+    400138: arm right finger 3c_end
+    400140: arm right finger 4a
+    400142: arm right finger 4b
+    400144: arm right finger 4c
+    400146: arm right finger 4c_end
+    400148: arm right finger 5a
+    400150: arm right finger 5b
+    400152: arm right finger 5c
+    400154: arm right finger 5c_end
+    400156: arm right shoulder 1
+    400158: arm right shoulder 2
+    400160: arm right shoulder adj 1
+    400162: arm right shoulder adj 1_end
+    400164: arm right shoulder adj 2
+    400166: arm right shoulder adj 2_end
+    400168: arm right shoulder adj 3
+    400170: arm right shoulder adj 4
+    400172: arm right shoulder adj 4_end
+    400174: arm right shoulder adj 5
+    400176: arm right shoulder adj 5_end
+    400178: arm right wrist
+    400180: Armature
+    400182: Camera
+    400184: hair back
+    400186: hair back_end
+    400188: hair base
+    400190: hair front left
+    400192: hair front left_end
+    400194: hair front middle
+    400196: hair front middle_end
+    400198: hair front right
+    400200: hair left 1
+    400202: hair left 2
+    400204: hair left 2_end
+    400206: hair left 3
+    400208: hair left 3_end
+    400210: hair left 4
+    400212: hair left 4_end
+    400214: hair right 1
+    400216: hair right 2
+    400218: hair right 2_end
+    400220: hair right 3
+    400222: hair right 3_end
+    400224: hair right 4
+    400226: hair right 4_end
+    400228: head cheek left 1
+    400230: head cheek left 1_end
+    400232: head cheek left 2
+    400234: head cheek left 2_end
+    400236: head cheek right 1
+    400238: head cheek right 1_end
+    400240: head cheek right 2
+    400242: head cheek right 2_end
+    400244: head cheek shadow left
+    400246: head cheek shadow left_end
+    400248: head cheek shadow right
+    400250: head cheek shadow right_end
+    400252: head chin center
+    400254: head chin left
+    400256: head chin left_end
+    400258: head chin right
+    400260: head chin right_end
+    400262: head eyeball left
+    400264: head eyeball right
+    400266: head eyebrow center
+    400268: head eyebrow left 1
+    400270: head eyebrow left 2
+    400272: head eyebrow left 3
+    400274: head eyebrow left 3_end
+    400276: head eyebrow left 4
+    400278: head eyebrow left 4_end
+    400280: head eyebrow left 5
+    400282: head eyebrow left 5_end
+    400284: head eyebrow right 1
+    400286: head eyebrow right 2
+    400288: head eyebrow right 3
+    400290: head eyebrow right 3_end
+    400292: head eyebrow right 4
+    400294: head eyebrow right 4_end
+    400296: head eyebrow right 5
+    400298: head eyebrow right 5_end
+    400300: head eyelid lower left 1
+    400302: head eyelid lower left 1_end
+    400304: head eyelid lower left 2
+    400306: head eyelid lower left 2_end
+    400308: head eyelid lower left 3
+    400310: head eyelid lower left 3_end
+    400312: head eyelid lower right 1
+    400314: head eyelid lower right 1_end
+    400316: head eyelid lower right 2
+    400318: head eyelid lower right 2_end
+    400320: head eyelid lower right 3
+    400322: head eyelid lower right 3_end
+    400324: head eyelid upper left 1
+    400326: head eyelid upper left 1_end
+    400328: head eyelid upper left 2
+    400330: head eyelid upper left 2_end
+    400332: head eyelid upper left 3
+    400334: head eyelid upper left 3_end
+    400336: head eyelid upper right 1
+    400338: head eyelid upper right 1_end
+    400340: head eyelid upper right 2
+    400342: head eyelid upper right 2_end
+    400344: head eyelid upper right 3
+    400346: head eyelid upper right 3_end
+    400348: head eyesocket left
+    400350: head eyesocket left_end
+    400352: head eyesocket right
+    400354: head eyesocket right_end
+    400356: head frown eyebrow center
+    400358: head frown eyebrow center_end
+    400360: head frown forehead left
+    400362: head frown forehead left_end
+    400364: head frown forehead middle
+    400366: head frown forehead middle_end
+    400368: head frown forehead right
+    400370: head frown forehead right_end
+    400372: head frown lower lip
+    400374: head frown lower lip_end
+    400376: head frown mayu left
+    400378: head frown mayu left_end
+    400380: head frown mayu right
+    400382: head frown mayu right_end
+    400384: head frown nose left
+    400386: head frown nose left_end
+    400388: head frown nose right
+    400390: head frown nose right_end
+    400392: head jaw
+    400394: head lip lower center
+    400396: head lip lower left 1
+    400398: head lip lower left 1_end
+    400400: head lip lower left 2
+    400402: head lip lower left 2_end
+    400404: head lip lower left 3
+    400406: head lip lower left 3_end
+    400408: head lip lower right 1
+    400410: head lip lower right 1_end
+    400412: head lip lower right 2
+    400414: head lip lower right 2_end
+    400416: head lip lower right 3
+    400418: head lip lower right 3_end
+    400420: head lip shadow
+    400422: head lip shadow_end
+    400424: head lip upper center
+    400426: head lip upper center_end
+    400428: head lip upper left 1
+    400430: head lip upper left 1_end
+    400432: head lip upper left 2
+    400434: head lip upper left 2_end
+    400436: head lip upper left 3
+    400438: head lip upper right 1
+    400440: head lip upper right 1_end
+    400442: head lip upper right 2
+    400444: head lip upper right 2_end
+    400446: head lip upper right 3
+    400448: head mouth siwa left
+    400450: head mouth siwa left_end
+    400452: head mouth siwa right
+    400454: head mouth siwa right_end
+    400456: head neck lower
+    400458: head neck upper
+    400460: head nose
+    400462: head nose_end
+    400464: head pupil left
+    400466: head pupil left_end
+    400468: head pupil right
+    400470: head pupil right_end
+    400472: head pupils root
+    400474: head teeth lower
+    400476: head teeth lower_end
+    400478: head teeth upper
+    400480: head teeth upper_end
+    400482: Lamp
+    400484: leg left ankle
+    400486: leg left groin
+    400488: leg left groin_end
+    400490: leg left knee
+    400492: leg left knee adj 1
+    400494: leg left knee adj 2
+    400496: leg left knee adj 3
+    400498: leg left knee adj 4
+    400500: leg left thigh
+    400502: leg left thigh adj 1
+    400504: leg left thigh adj 2
+    400506: leg left thigh adj 3
+    400508: leg left toe
+    400510: leg left toe_end
+    400512: leg right ankle
+    400514: leg right groin
+    400516: leg right groin_end
+    400518: leg right knee
+    400520: leg right knee adj 1
+    400522: leg right knee adj 2
+    400524: leg right knee adj 3
+    400526: leg right knee adj 4
+    400528: leg right thigh
+    400530: leg right thigh adj 1
+    400532: leg right thigh adj 2
+    400534: leg right thigh adj 3
+    400536: leg right toe
+    400538: leg right toe_end
+    400540: pelvis adj
+    400542: pelvis adj_end
+    400544: root ground
+    400546: root hips
+    400548: spine lower
+    400550: spine middle
+    400552: spine upper
+    400554: //RootNode
+    400556: stomach adj 1
+    400558: stomach adj 1_end
+    400560: stomach adj 2
+    400562: stomach adj 2_end
+    400564: unused gd chest scl
+    400566: unused gd chest scl_end
+    400568: unused gd head def
+    400570: unused gd head def_end
+    400572: unused gd hiphalf l
+    400574: unused gd hiphalf l_end
+    400576: unused gd hiphalf r
+    400578: unused gd hiphalf r_end
+    400580: unused gd neck scl
+    400582: unused gd neck scl_end
+    400584: unused gd shldrhalf l
+    400586: unused gd shldrhalf r
+    400588: unused gp calf low l
+    400590: unused gp calf low l_end
+    400592: unused gp calf low r
+    400594: unused gp calf low r_end
+    400596: unused gp calf mid l
+    400598: unused gp calf mid l_end
+    400600: unused gp calf mid r
+    400602: unused gp calf mid r_end
+    400604: unused gp calf up l
+    400606: unused gp calf up l_end
+    400608: unused gp calf up r
+    400610: unused gp calf up r_end
+    400612: unused gp knee l
+    400614: unused gp knee l_end
+    400616: unused gp knee r
+    400618: unused gp knee r_end
+    400620: unused gp thigh low l
+    400622: unused gp thigh low l_end
+    400624: unused gp thigh low r
+    400626: unused gp thigh low r_end
+    400628: unused gp thigh mid l
+    400630: unused gp thigh mid l_end
+    400632: unused gp thigh mid r
+    400634: unused gp thigh mid r_end
+    400636: unused gp thigh up l
+    400638: unused gp thigh up l_end
+    400640: unused gp thigh up r
+    400642: unused gp thigh up r_end
+    400644: unused gp uparm l
+    400646: unused gp uparm l_end
+    400648: unused gp uparm r
+    400650: unused gp uparm r_end
+    400652: waist adj
+    400654: waist adj_end
+    2000000: Camera
+    2100000: 41_mesh9.005_0.1_16_16
+    2100002: 41_mesh7.005_0.1_16_16
+    2100004: 40_mesh13.005_0.1_16_16
+    2100006: 40_mesh12.005_0.1_16_16
+    2100008: 40_mesh10.005_0.1_16_16
+    2100010: 40_mesh1.006_0.1_16_16
+    2100012: 40_mesh0.053_0.1_16_16
+    2100014: 30_mesh11.005_0.1_16_16
+    4300000: 41_mesh9.005_0.1_16_16
+    4300002: 41_mesh7.005_0.1_16_16
+    4300004: 40_mesh13.005_0.1_16_16
+    4300006: 40_mesh12.005_0.1_16_16
+    4300008: 40_mesh10.005_0.1_16_16
+    4300010: 40_mesh1.006_0.1_16_16
+    4300012: 40_mesh0.053_0.1_16_16
+    4300014: 30_mesh11.005_0.1_16_16
+    9500000: //RootNode
+    10800000: Lamp
+    13700000: 30_mesh11.005_0.1_16_16
+    13700002: 40_mesh0.053_0.1_16_16
+    13700004: 40_mesh1.006_0.1_16_16
+    13700006: 40_mesh10.005_0.1_16_16
+    13700008: 40_mesh12.005_0.1_16_16
+    13700010: 40_mesh13.005_0.1_16_16
+    13700012: 41_mesh7.005_0.1_16_16
+    13700014: 41_mesh9.005_0.1_16_16
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
