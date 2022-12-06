@@ -1,6 +1,6 @@
 # anime_battle_simulator_3
 
-Hey! If you're wondering what the heck this is, it's a basic Unity thing that may or may not be the correct Unity engine, complete with all my crappy UI assets.
+Hey! If you're wondering what the heck this is, it's a basic Unity thing that may or may not be the correct Unity engine, complete with all my crappy UI assets and Photoshop PSDs.
 
 It's actually been so long that I don't remember which Unity version this thing was compiled on
 
